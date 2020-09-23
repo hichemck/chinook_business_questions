@@ -15,7 +15,7 @@ which provided the database as an SQLite file named chinook.db.
 
 
 ## Work Breakdown
-In my analysis I answered different business questions using advanced query techniques such as :
+In my analysis I answered the questions listed above using advanced query techniques such as :
 - WITH Clause
 - CASE Statement
 - Multiple Joins
